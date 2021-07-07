@@ -1,0 +1,21 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": [
+    "sketch.js",
+    "boid.js"
+  ],
+  "scripts": {
+    "doc": "jsdoc -c jsdoc.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jsdoc": "^3.6.6"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
